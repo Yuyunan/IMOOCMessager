@@ -3,6 +3,11 @@ package net.qiujuer.italker.push;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import android.os.Bundle;
+import android.support.annotation.Nullable;
+import android.support.v7.app.AppCompatActivity;
+
+import net.qiujuer.italker.common.Common;
 import net.qiujuer.italker.common.app.Activity;
 
 import butterknife.BindView;
@@ -43,3 +48,6 @@ public class MainActivity extends Activity implements IView {
         mResultText.setText(string);
     }
 }
+
+
+
