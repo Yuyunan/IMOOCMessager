@@ -3,6 +3,15 @@
 
     <item
         is-multidex="true"
+        jar="/Users/Ynn/.android/build-cache/d0ac19ddbe42fa520a8ee790a55c363e179b558d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7946fd3c2b9371f3462537431b6756361f56ebe7">
+        <dex dex="/Users/Ynn/Documents/IMOOCMessager/APP/ITalker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_556e3f9b8c11c9fcc49aec5b2d70f3a9188ea128/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/Ynn/Documents/IMOOCMessager/APP/ITalker/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
@@ -12,111 +21,30 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Ynn/.android/build-cache/429d6649dae2b6ef75438ec200625de3b4cf08db/output/jars/classes.jar"
+        jar="/Users/Ynn/.android/build-cache/f14feee5ca3cdb237ead60809782f3bb1225f251/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/Users/Ynn/Documents/IMOOCMessager/APP/ITalker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c0c40d483d24afa1edbee9fc16f8017266b5e395/classes.dex" />
+        sha1="0778ea4b81f3a30ae9724880870eaf15610d0aa0">
+        <dex dex="/Users/Ynn/Documents/IMOOCMessager/APP/ITalker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e7ab82db41b2cbcda22f92a24baa3bc90e646d0/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Ynn/.android/build-cache/fc710b986f073099859eff30534c4b4fab371aca/output/jars/classes.jar"
+        jar="/Users/Ynn/.android/build-cache/b7ccf4c5bfdd9f6b1154f033b2b5435b69c6ae04/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
-        <dex dex="/Users/Ynn/Documents/IMOOCMessager/APP/ITalker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea665b566c8af9347ac7d1968b6c58ce8ba1c055/classes.dex" />
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/Ynn/Documents/IMOOCMessager/APP/ITalker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b0897f0698857110d8c04afb2f8617844defbbc7/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Ynn/.android/build-cache/bfa2cf3c34e3f4b3a2704375c065ea4d9e5d08cf/output/jars/classes.jar"
+        jar="/Users/Ynn/.android/build-cache/8ad9ed1b2931c05e91e23ae92b0eed381a7f141f/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/Users/Ynn/Documents/IMOOCMessager/APP/ITalker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fedaee7c13b32a0f24161785df4cb5745896346f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Ynn/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/Users/Ynn/Documents/IMOOCMessager/APP/ITalker/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_811599d6fd784f048d923e3f2ce3a2fe28390fda/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Ynn/.android/build-cache/dbecb523e22644a2a514220491fc0e3cdc576b6f/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="/Users/Ynn/Documents/IMOOCMessager/APP/ITalker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bca42bbc4341d2b297c00528b304158ff6d39958/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Ynn/.android/build-cache/644a52b67482a0f2d91d65c61c2c0511da6b97b7/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="/Users/Ynn/Documents/IMOOCMessager/APP/ITalker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1e097b3b870139bfdf083d31f8af21e3315d442d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Ynn/.android/build-cache/1348d28facec42241cf55f51d070387855cd9222/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/Users/Ynn/Documents/IMOOCMessager/APP/ITalker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3ef6569e831c63308dfed12a342c0e9b5eeda49f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Ynn/.android/build-cache/a974911219ee406570790681a8f5337fe37c5380/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/Users/Ynn/Documents/IMOOCMessager/APP/ITalker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a597205470f86a0483728b297bcef41c0373e066/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Ynn/.android/build-cache/32625cd5045a5682eb77708c745e615e78e3d9c9/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/Ynn/Documents/IMOOCMessager/APP/ITalker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ed5196c85b85feee53e882c1ed00584542b0853/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Ynn/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="/Users/Ynn/Documents/IMOOCMessager/APP/ITalker/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_c942394bff6bb388d913a640ffd9ad9a89c7dc71/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Ynn/.android/build-cache/6022d04de79526f0389a8da3fff86bbbbeadd468/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="/Users/Ynn/Documents/IMOOCMessager/APP/ITalker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6d8bd28e0e6028f84efcf2b20b192d2d947a82bc/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Ynn/.android/build-cache/7cbb1e4148bffe54b90146680c27762716558d2c/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="/Users/Ynn/Documents/IMOOCMessager/APP/ITalker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6d21388216756eb55915e96af90f208b028045d2/classes.dex" />
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/Ynn/Documents/IMOOCMessager/APP/ITalker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4cfefbcc29ee7b0e28c1d6d56e203812a0db10b8/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -124,35 +52,26 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="dfd38dcd06f0a96dce293d0bfe3ade84e8c083a5">
+        sha1="c6b1c53b54d280a58d5c27a6cc17e8db36a1025b">
         <dex dex="/Users/Ynn/Documents/IMOOCMessager/APP/ITalker/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b9b5d57aa119b1ae100ac23d1367c0c5dd21dbf0/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Ynn/.android/build-cache/5ca551eb3de56638a6f442e6bc4c63acd275ef51/output/jars/classes.jar"
+        jar="/Users/Ynn/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="/Users/Ynn/Documents/IMOOCMessager/APP/ITalker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ee78047166e54dae9bad5ec1b26676470ecc435/classes.dex" />
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/Ynn/Documents/IMOOCMessager/APP/ITalker/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_4088eb48fd62a86d2fa5f011722d42c6ade8713b/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Ynn/.android/build-cache/c42d77b95b219f1d7ae5c111525698417a5ed89c/output/jars/classes.jar"
+        jar="/Users/Ynn/.android/build-cache/9072d843667b1ca1a9cd59378e6167ecf103894f/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/Users/Ynn/Documents/IMOOCMessager/APP/ITalker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8edc0e1d9a98dd754f4c29c18764263b7d676b90/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Ynn/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.5.1/bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc/butterknife-annotations-8.5.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
-        <dex dex="/Users/Ynn/Documents/IMOOCMessager/APP/ITalker/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.5.1_d39fe91418d67ceed79b0a2adbc45c9ca0a10229/classes.dex" />
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/Ynn/Documents/IMOOCMessager/APP/ITalker/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c11b2abf549b23c17d25322193351e558ead2c2/classes.dex" />
     </item>
 
 </items>
